@@ -249,7 +249,7 @@ rtp://@232.84.3.149:10522
 #EXTINF:-1, tvg-id="boxhits" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/182C6FD.png" tvg-name="BOX HITS HD"  group-title="Quốc Tế",BOX HITS HD
 rtp://@232.84.1.77:8436
 
-#EXTINF:-1, tvg-id="foxfamily" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/zyFZ4ds.jpg" tvg-name="FOX Family Movies HD"  group-title="Quốc Tế",HITS HD
+#EXTINF:-1, tvg-id="foxfamily" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/hithd.png" tvg-name="FOX Family Movies HD"  group-title="Quốc Tế",HITS HD
 rtp://@232.84.3.214:11206
 
 #EXTINF:-1, tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/blVYBrn.jpg" tvg-name="FRANCE 24 (English)"  group-title="Quốc Tế",FRANCE 24 (English)
