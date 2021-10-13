@@ -252,9 +252,6 @@ rtp://@232.84.1.77:8436
 #EXTINF:-1, tvg-id="foxfamily" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/zyFZ4ds.jpg" tvg-name="FOX Family Movies HD"  group-title="Quốc Tế",HITS HD
 rtp://@232.84.3.214:11206
 
-#EXTINF:-1, tvg-id="foxmovieshd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/8JifSZm.jpg" tvg-name="FOX MOVIES HD"  group-title="Quốc Tế",TVE HD
-rtp://@232.84.3.205:11152
-
 #EXTINF:-1, tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/blVYBrn.jpg" tvg-name="FRANCE 24 (English)"  group-title="Quốc Tế",FRANCE 24 (English)
 rtp://@232.84.3.145:9606
 
@@ -267,7 +264,7 @@ rtp://@232.84.2.136:9612
 #EXTINF:-1, tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/m6AsZH3.jpg" tvg-name="Cinemax HD"  group-title="Quốc Tế",Cinemax HD
 rtp://@232.84.3.117:10654
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Clubbing TV"  group-title="Quốc Tế",Clubbing TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/Clubbing TV.png" tvg-name="Clubbing TV"  group-title="Quốc Tế",Clubbing TV
 rtp://@232.84.3.194:11086
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/nGZ5vYL.jpg" tvg-name="NAT GEO PEOPLE HD"  group-title="Quốc Tế",NAT GEO PEOPLE HD
