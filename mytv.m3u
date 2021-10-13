@@ -181,7 +181,7 @@ rtp://@232.84.3.131:10482
 rtp://@232.84.3.139:10702
 
 #EXTINF:-1, tvg-id="animax" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/Y8azPWS.jpg" tvg-name="ANIMAX HD"  group-title="Quốc Tế",ANIMAX HD
-rtp://@232.84.3.223:11260
+rtp://@232.84.1.18:8082
 
 #EXTINF:-1, tvg-id="arirang" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/7jkT9D5.jpg" tvg-name="Arirang"  group-title="Quốc Tế",Arirang
 rtp://@232.84.1.43:8238
