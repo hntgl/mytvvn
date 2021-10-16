@@ -237,12 +237,6 @@ rtp://@232.84.3.219:11236
 #EXTINF:-1, tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/dreamworks.png" tvg-name="Dreamworks HD"  group-title="Quốc Tế",Dreamworks HD
 rtp://@232.84.3.227:11284
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/OyesnuA.jpg" tvg-name="DW (Deutsch)"  group-title="Quốc Tế",DW (Deutsch)
-rtp://@232.84.3.168:10428
-
-#EXTINF:-1, tvg-id="dw" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/OyesnuA.jpg" tvg-name="DW (English) HD"  group-title="Quốc Tế",DW (English) HD
-rtp://@232.84.3.154:10416
-
 #EXTINF:-1, tvg-id="fashionhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/ItVoqKV.jpg" tvg-name="Fashion TV HD"  group-title="Quốc Tế",Fashion TV HD
 rtp://@232.84.3.149:10522
 
