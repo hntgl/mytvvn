@@ -402,7 +402,7 @@ rtp://@232.84.2.74:9024
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/53.jpg" tvg-name="NTV HD _ TH Nghệ An HD"  group-title="Địa Phương",NTV HD _ TH Nghệ An HD
 rtp://@232.84.2.198:10972
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/41.jpg" tvg-name="PTD _ TH Đắk Nông"  group-title="Địa Phương",PTD _ TH Đắk Nông
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/41.png" tvg-name="PTD _ TH Đắk Nông"  group-title="Địa Phương",PTD _ TH Đắk Nông
 rtp://@232.84.3.140:8874
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/147.jpg" tvg-name="PTP _ TH Phú Yên"  group-title="Địa Phương",PTP _ TH Phú Yên
