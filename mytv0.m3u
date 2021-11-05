@@ -288,10 +288,10 @@ rtp://@232.84.2.110:8742
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/20.jpg" tvg-name="BGTV _ TH Bắc Giang"  group-title="Địa Phương",BGTV _ TH Bắc Giang
 rtp://@232.84.2.89:8754
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/19.jpg" tvg-name="BLTV _ TH Bạc Liêu"  group-title="Địa Phương",BLTV _ TH Bạc Liêu
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/19.png" tvg-name="BLTV _ TH Bạc Liêu"  group-title="Địa Phương",BLTV _ TH Bạc Liêu
 rtp://@232.84.2.116:8766
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/26.jpg" tvg-name="BPTV1 _ TH Bình Phước"  group-title="Địa Phương",BPTV1 _ TH Bình Phước
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/26.png" tvg-name="BPTV1 _ TH Bình Phước"  group-title="Địa Phương",BPTV1 _ TH Bình Phước
 rtp://@232.84.2.90:8814
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/18.jpg" tvg-name="BRT _ TH Bà Rịa Vũng Tàu"  group-title="Địa Phương",BRT _ TH Bà Rịa Vũng Tàu
@@ -300,7 +300,7 @@ rtp://@232.84.2.73:8748
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/192.jpg" tvg-name="BTV _ TH Bắc Ninh HD"  group-title="Địa Phương",BTV _ TH Bắc Ninh HD
 rtp://@232.84.2.245:10506
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/25.jpg" tvg-name="BTV _ TH Bình Định"  group-title="Địa Phương",BTV _ TH Bình Định
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/25.png" tvg-name="BTV _ TH Bình Định"  group-title="Địa Phương",BTV _ TH Bình Định
 rtp://@232.84.2.88:8784
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/27.jpg" tvg-name="BTV _ TH Bình Thuận"  group-title="Địa Phương",BTV _ TH Bình Thuận
@@ -312,7 +312,7 @@ rtp://@232.84.3.109:10750
 #EXTINF:-1, tvg-id="binhduong2" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/135.jpg" tvg-name="BTV2 _ TH Bình Dương"  group-title="Địa Phương",BTV2 _ TH Bình Dương
 rtp://@232.84.1.137:8796
 
-#EXTINF:-1, tvg-id="btv9" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/9lPsA56.jpg" tvg-name="BTV9 An Viên HD"  group-title="Địa Phương",BTV9 An Viên HD 
+#EXTINF:-1, tvg-id="btv9" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/btv9.jpg" tvg-name="BTV9 An Viên HD"  group-title="Địa Phương",BTV9 An Viên HD 
 rtp://@232.84.3.199:11116
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/caobang.jpg" tvg-name="CRTV HD _ TH Cao Bằng"  group-title="Địa Phương",CRTV HD _ TH Cao Bằng
