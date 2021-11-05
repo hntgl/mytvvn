@@ -261,7 +261,7 @@ rtp://@232.84.3.117:10654
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/clubbingtv.jpg" tvg-name="Clubbing TV"  group-title="Quốc Tế",Clubbing TV
 rtp://@232.84.3.194:11086
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/nGZ5vYL.jpg" tvg-name="NAT GEO PEOPLE HD"  group-title="Quốc Tế",NAT GEO PEOPLE HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/natgeopepole.jpg" tvg-name="NAT GEO PEOPLE HD"  group-title="Quốc Tế",NAT GEO PEOPLE HD
 rtp://@232.84.1.76:8430
 
 #EXTINF:-1, tvg-id="ngwhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/natgeowild.jpg" tvg-name="NAT GEO WILD HD"  group-title="Quốc Tế",NAT GEO WILD HD
