@@ -1,0 +1,509 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtv1.jpg" tvg-name="VTV1 HD"  group-title="VTV",VTV1 HD
+rtp://@232.84.1.117:10254
+
+#EXTINF:-1, tvg-id="vtv2hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/3.jpg" tvg-name="VTV2 HD"  group-title="VTV",VTV2 HD
+rtp://@232.84.2.31:10594
+
+#EXTINF:-1, tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/81.jpg" tvg-name="VTV3 HD"  group-title="VTV",VTV3 HD
+rtp://@232.84.1.118:10260
+
+#EXTINF:-1, tvg-id="vtv4hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/4.jpg" tvg-name="VTV4 HD"  group-title="VTV",VTV4 HD
+rtp://@232.84.3.106:10600
+
+#EXTINF:-1, tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/5.jpg" tvg-name="VTV5 HD"  group-title="VTV",VTV5 HD
+rtp://@232.84.2.33:10606
+
+#EXTINF:-1, tvg-id="vtv6hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/82.jpg" tvg-name="VTV6 HD"  group-title="VTV",VTV6 HD
+rtp://@232.84.1.119:10266
+
+#EXTINF:-1, tvg-id="vtv7hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/154.jpg" tvg-name="VTV7 HD"  group-title="VTV",VTV7 HD
+rtp://@232.84.2.202:10996
+
+#EXTINF:-1, tvg-id="vtv8hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/140.jpg" tvg-name="VTV8 HD"  group-title="VTV",VTV8 HD
+rtp://@232.84.3.104:10612
+
+#EXTINF:-1, tvg-id="vtv9hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/103.jpg" tvg-name="VTV9 HD"  group-title="VTV",VTV9 HD
+rtp://@232.84.2.35:10618
+
+#EXTINF:-1, tvg-id="vtvcab1hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/viegiaitri.jpg" tvg-name="VTVcab 1 _ Vie GIẢI TRÍ"  group-title="VTVcab",VTVcab 1 _ Vie GIẢI TRÍ
+rtp://@232.84.1.143:8832
+
+#EXTINF:-1, tvg-id="vtvcab2hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcabphimviet.jpg" tvg-name="VTVcab 2 _ Phim Việt"  group-title="VTVcab",VTVcab 2 _ Phim Việt
+rtp://@232.84.1.168:8982
+
+#EXTINF:-1, tvg-id="vtvcab4hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcabvanhoa.jpg" tvg-name="VTVcab 4"  group-title="VTVcab",VTVcab 4
+rtp://@232.84.2.190:10924
+
+#EXTINF:-1, tvg-id="vtvcab5hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/echannel.jpg" tvg-name="VTVcab 5 - E Channel"  group-title="VTVcab",VTVcab 5 - E Channel
+http://webtv.sytes.net:81/fpt.php?play&id=306
+
+#EXTINF:-1, tvg-id="vtvcab6hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/dNGJK53.jpg" tvg-name="VTVcab 6 _ HAYTV"  group-title="VTVcab",VTVcab 6 _ HAYTV
+#rtp://@232.84.1.220:9294
+
+#EXTINF:-1, tvg-id="vtvcab7hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcab7.jpg" tvg-name="VTVcab 7"  group-title="VTVcab",VTVcab 7
+rtp://@232.84.1.26:8130
+
+#EXTINF:-1, tvg-id="vtvcab8hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/bibi.jpg" tvg-name="VTVcab 8 _ BiBi"  group-title="VTVcab",VTVcab 8 _ BiBi HD
+rtp://@232.84.3.217:11224
+
+#EXTINF:-1, tvg-id="vtvcab9hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/infotv.jpg" tvg-name="VTVcab 9 _ InfoTV"  group-title="VTVcab",VTVcab 9 _ InfoTV
+rtp://@232.84.2.191:10930
+
+#EXTINF:-1, tvg-id="vtvcab10hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcabcine.jpg" tvg-name="VTVcab 10"  group-title="VTVcab",VTVcab 10
+rtp://@232.84.1.205:9204
+
+#EXTINF:-1, tvg-id="vtvcab12hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/styletv.jpg" tvg-name="VTVcab 12 _ Style TV"  group-title="VTVcab",VTVcab 12 _ Style TV
+rtp://@232.84.1.244:9438
+
+#EXTINF:-1, tvg-id="vtvcab15hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcab15.jpg" tvg-name="VTVcab 15"  group-title="VTVcab",VTVcab 15
+rtp://@232.84.2.192:10936
+
+#EXTINF:-1, tvg-id="vtvcab17hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/yeah1tv.jpg" tvg-name="VTVcab 17 _ Yeah1!TV"  group-title="VTVcab",VTVcab 17 _ Yeah1!TV
+rtp://@232.84.1.217:9276
+
+#EXTINF:-1, tvg-id="vtvcab18hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/sportnews.jpg" tvg-name="VTVcab 18 _ THỂ THAO TIN TỨC HD"  group-title="VTVcab",VTVcab 18 _ THỂ THAO TIN TỨC HD
+rtp://@232.84.2.193:10942
+
+#EXTINF:-1, tvg-id="vtvcab19hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/viedrama.jpg" tvg-name="VTVcab 19 _ Vie DRAMAS  group-title="VTVcab",VTVcab 19 _ Vie DRAMAS
+rtp://@232.84.3.218:11230
+
+#EXTINF:-1, tvg-id="vtvcab20hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcabvfamlily.jpg" tvg-name="VTVcab 20 _ V Family"  group-title="VTVcab",VTVcab 20 _ V Family
+rtp://@232.84.1.245:10344
+
+#EXTINF:-1, tvg-id="vtvcab23hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vtvcabgolf.jpg" tvg-name="VTVcab 23 _ GOLF TV HD"  group-title="VTVcab",VTVcab 23 _ GOLF TV HD
+rtp://@232.84.2.246:10876
+
+#EXTINF:-1, tvg-id="vtc1hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/6.jpg" tvg-name="VTC1 HD"  group-title="VTC",VTC1 HD
+rtp://@232.84.3.102:10846
+
+#EXTINF:-1, tvg-id="vtc2" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/113.jpg" tvg-name="VTC2"  group-title="VTC",VTC2
+rtp://@232.84.1.57:8322
+
+#EXTINF:-1, tvg-id="vtc3hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/114.jpg" tvg-name="VTC3 HD"  group-title="VTC",VTC3 HD
+rtp://@232.84.1.81:8460
+
+#EXTINF:-1, tvg-id="vtc4hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/150.jpg" tvg-name="Yeah1 Family HD"  group-title="VTC",Yeah1 Family HD
+rtp://@232.84.3.147:10714
+
+#EXTINF:-1, tvg-id="vtc5hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/115.jpg" tvg-name="tvBlue HD"  group-title="VTC",tvBlue HD
+rtp://@232.84.3.136:10720
+
+#EXTINF:-1, tvg-id="vtc6hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/149.jpg" tvg-name="VTC6"  group-title="VTC",VTC6
+rtp://@232.84.1.58:8328
+
+#EXTINF:-1, tvg-id="vtc7hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/80.jpg" tvg-name="TodayTV HD"  group-title="VTC",TodayTV HD
+rtp://@232.84.3.120:10726
+
+#EXTINF:-1, tvg-id="vtc8" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/116.jpg" tvg-name="VTC8"  group-title="VTC",VTC8
+rtp://@232.84.2.39:10642
+
+#EXTINF:-1, tvg-id="vtc9hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/118.jpg" tvg-name="VTC9 HD"  group-title="VTC",VTC9 HD
+rtp://@232.84.3.141:10732
+
+#EXTINF:-1, tvg-id="vtc10hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/7.jpg" tvg-name="VTC10"  group-title="VTC",VTC10
+rtp://@232.84.1.214:9258
+
+#EXTINF:-1, tvg-id="vtc11" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/120.jpg" tvg-name="Kids & Family TV"  group-title="VTC",Kids & Family TV
+rtp://@232.84.1.61:8340
+
+#EXTINF:-1, tvg-id="vtc13hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/84.jpg" tvg-name="VTC13 HD"  group-title="VTC",VTC13 HD
+rtp://@232.84.1.74:8418
+
+#EXTINF:-1, tvg-id="vtc14hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/155.jpg" tvg-name="VTC14"  group-title="VTC",VTC14
+rtp://@232.84.1.216:9270
+
+#EXTINF:-1, tvg-id="vtc16" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/9.jpg" tvg-name="VTC16"  group-title="VTC",VTC16
+rtp://@232.84.1.215:9264
+
+#EXTINF:-1, tvg-id="antvhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/11.jpg" tvg-name="ANTV"  group-title="Kênh Thiết Yếu",ANTV
+rtp://@232.84.1.212:9246
+
+#EXTINF:-1, tvg-id="nhandan" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/143.jpg" tvg-name="Nhân Dân TV HD"  group-title="Kênh Thiết Yếu",Nhân Dân TV HD
+rtp://@232.84.3.124:10822
+
+#EXTINF:-1, tvg-id="qpvnhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/138.jpg" tvg-name="QPVN HD"  group-title="Kênh Thiết Yếu",QPVN HD
+rtp://@232.84.3.127:10816
+
+#EXTINF:-1, tvg-id="quochoi" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/185.jpg" tvg-name="QUỐC HỘI HD"  group-title="Kênh Thiết Yếu",QUỐC HỘI HD
+rtp://@232.84.1.234:10290
+
+#EXTINF:-1, tvg-id="ttxvnhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/134.jpg" tvg-name="TTXVN HD"  group-title="Kênh Thiết Yếu",TTXVN HD
+rtp://@232.84.3.125:10434
+
+#EXTINF:-1, tvg-id="htvkey" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/106.jpg" tvg-name="HTV4"  group-title="HTV/HTVC",HTV4
+rtp://@232.84.1.25:8124
+
+#EXTINF:-1, tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/131.jpg" tvg-name="HTV THỂ THAO HD"  group-title="HTV/HTVC",HTV THỂ THAO HD
+rtp://@232.84.1.24:8118
+
+#EXTINF:-1, tvg-id="htv1" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/105.jpg" tvg-name="HTV1"  group-title="HTV/HTVC",HTV1
+rtp://@232.84.1.35:8184
+
+#EXTINF:-1, tvg-id="htv2hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/75.jpg" tvg-name="HTV2 Vie Channel HD"  group-title="HTV/HTVC",HTV2 Vie Channel HD
+rtp://@232.84.2.182:9306
+
+#EXTINF:-1, tvg-id="htv3" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/76.jpg" tvg-name="HTV3 Dreams TV"  group-title="HTV/HTVC",HTV3 Dreams TV
+rtp://@232.84.1.104:8598
+
+#EXTINF:-1, tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/153.jpg" tvg-name="HTV7 HD"  group-title="HTV/HTVC",HTV7 HD
+rtp://@232.84.1.223:9312
+
+#EXTINF:-1, tvg-id="htv9hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/14.jpg" tvg-name="HTV9 HD"  group-title="HTV/HTVC",HTV9 HD
+rtp://@232.84.1.224:9318
+
+#EXTINF:-1, tvg-id="htvccanhachd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/156.jpg" tvg-name="HTVC Ca Nhạc"  group-title="HTV/HTVC",HTVC Ca Nhạc
+rtp://@232.84.1.126:8730
+
+#EXTINF:-1, tvg-id="htvcphimhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/122.jpg" tvg-name="HTVC Phim HD"  group-title="HTV/HTVC",HTVC Phim HD
+rtp://@232.84.3.118:9594
+
+#EXTINF:-1, tvg-id="htvcdulichhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/127.jpg" tvg-name="DU LỊCH VÀ CUỘC SỐNG"  group-title="HTV/HTVC",DU LỊCH VÀ CUỘC SỐNG
+rtp://@232.84.1.221:9300
+
+#EXTINF:-1, tvg-id="htvcgiadinhhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/110.jpg" tvg-name="GIA ĐÌNH"  group-title="HTV/HTVC",GIA ĐÌNH
+rtp://@232.84.1.170:8994
+
+#EXTINF:-1, tvg-id="htvcphunuhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/157.jpg" tvg-name="PHỤ NỮ"  group-title="HTV/HTVC",PHỤ NỮ
+rtp://@232.84.1.127:8736
+
+#EXTINF:-1, tvg-id="htvcthuanviet" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/109.jpg" tvg-name="Thuần Việt"  group-title="HTV/HTVC",Thuần Việt
+rtp://@232.84.1.22:8106
+
+#EXTINF:-1, tvg-id="htvcthuanviethd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/132.jpg" tvg-name="Thuần Việt HD"  group-title="HTV/HTVC",Thuần Việt HD
+rtp://@232.84.2.134:9600
+
+#EXTINF:-1, tvg-id="abcaustralia" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/177.jpg" tvg-name="ABC AUSTRALIA"  group-title="Quốc Tế",ABC AUSTRALIA
+rtp://@232.84.3.131:10482
+
+#EXTINF:-1, tvg-id="animalhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/234.jpg" tvg-name="Animal Planet HD"  group-title="Quốc Tế",Animal Planet HD
+rtp://@232.84.3.139:10702
+
+#EXTINF:-1, tvg-id="animax" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/266.jpg" tvg-name="ANIMAX HD"  group-title="Quốc Tế",ANIMAX HD
+rtp://@232.84.1.18:8082
+
+#EXTINF:-1, tvg-id="arirang" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/248.jpg" tvg-name="Arirang"  group-title="Quốc Tế",Arirang
+rtp://@232.84.1.43:8238
+
+#EXTINF:-1, tvg-id="afnhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/afn.jpg" tvg-name="Asian Food Network HD"  group-title="Quốc Tế",Asian Food Network HD
+rtp://@232.84.2.129:9570
+
+#EXTINF:-1, tvg-id="axnhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/172.jpg" tvg-name="AXN HD"  group-title="Quốc Tế",AXN HD
+rtp://@232.84.3.121:10660
+
+#EXTINF:-1, tvg-id="babytvhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/babytv.jpg" tvg-name="Baby TV HD"  group-title="Quốc Tế",Baby TV HD
+rtp://@232.84.3.128:10624
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/182.jpg" tvg-name="BBC WORLD NEWS"  group-title="Quốc Tế",BBC WORLD NEWS
+rtp://@232.84.2.239:10452
+
+#EXTINF:-1, tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/183.jpg" tvg-name="BBC Earth HD"  group-title="Quốc Tế",BBC Earth HD
+rtp://@232.84.3.226:11278
+
+#EXTINF:-1, tvg-id="bbclifestyle" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/184.jpg" tvg-name="BBC Lifestyle HD"  group-title="Quốc Tế",BBC Lifestyle HD
+rtp://@232.84.3.225:11272
+
+#EXTINF:-1, tvg-id="bloomberg" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/175.jpg" tvg-name="Bloomberg HD"  group-title="Quốc Tế",Bloomberg HD
+rtp://@232.84.3.157:10696
+
+#EXTINF:-1, tvg-id="boomerang" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/180.jpg" tvg-name="Boomerang HD"  group-title="Quốc Tế",Boomerang HD
+rtp://@232.84.3.222:11254
+
+#EXTINF:-1, tvg-id="cartoonhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/173.jpg" tvg-name="Cartoon Network HD"  group-title="Quốc Tế",Cartoon Network HD
+rtp://@232.84.2.144:10684
+
+#EXTINF:-1, tvg-id="cbeebies" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/265.jpg" tvg-name="Cbeebies HD"  group-title="Quốc Tế",Cbeebies HD
+rtp://@232.84.1.90:10398
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/cna.jpg" tvg-name="CNA HD"  group-title="Quốc Tế",CNA HD
+rtp://@232.84.3.155:10540
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/cnbc.jpg" tvg-name="CNBC"  group-title="Quốc Tế",CNBC
+rtp://@232.84.3.179:10488
+
+#EXTINF:-1, tvg-id="cnn" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/176.jpg" tvg-name="CNN HD"  group-title="Quốc Tế",CNN HD
+rtp://@232.84.3.153:10690
+
+#EXTINF:-1, tvg-id="davinci" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/da-vinci.jpg" tvg-name="Da Vinci HD"  group-title="Quốc Tế",Da Vinci HD
+rtp://@232.84.2.131:9582
+
+#EXTINF:-1, tvg-id="discoveryhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/238.jpg" tvg-name="Discovery Channel HD"  group-title="Quốc Tế",Discovery Channel HD
+rtp://@232.84.3.132:10528
+
+#EXTINF:-1, tvg-id="discoveryasia" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/236.jpg" tvg-name="Discovery Asia HD"  group-title="Quốc Tế",Discovery Asia HD
+rtp://@232.84.3.219:11236
+
+#EXTINF:-1, tvg-id="dreamworks" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/dreamworks.jpg" tvg-name="Dreamworks HD"  group-title="Quốc Tế",Dreamworks HD
+rtp://@232.84.3.227:11284
+
+#EXTINF:-1, tvg-id="fashionhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/174.jpg" tvg-name="Fashion TV HD"  group-title="Quốc Tế",Fashion TV HD
+rtp://@232.84.3.149:10522
+
+#EXTINF:-1, tvg-id="boxhits" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/268.jpg" tvg-name="BOX HITS HD"  group-title="Quốc Tế",BOX HITS HD
+rtp://@232.84.1.77:8436
+
+#EXTINF:-1, tvg-id="foxfamily" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/hitshd.jpg" tvg-name="HITS HD"  group-title="Quốc Tế",HITS HD
+rtp://@232.84.3.214:11206
+
+#EXTINF:-1, tvg-id="france24eng" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/233.jpg" tvg-name="FRANCE 24 (English)"  group-title="Quốc Tế",FRANCE 24 (English)
+rtp://@232.84.3.145:9606
+
+#EXTINF:-1, tvg-id="hbohd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/263.jpg" tvg-name="HBO HD"  group-title="Quốc Tế",HBO HD
+rtp://@232.84.3.101:10648
+
+#EXTINF:-1, tvg-id="kbsworld" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/231.jpg" tvg-name="KBS WORLD"  group-title="Quốc Tế",KBS WORLD
+rtp://@232.84.2.136:9612
+
+#EXTINF:-1, tvg-id="cinemaxhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/264.jpg" tvg-name="Cinemax HD"  group-title="Quốc Tế",Cinemax HD
+rtp://@232.84.3.117:10654
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/clubbingtv.jpg" tvg-name="Clubbing TV"  group-title="Quốc Tế",Clubbing TV
+rtp://@232.84.3.194:11086
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/nGZ5vYL.jpg" tvg-name="NAT GEO PEOPLE HD"  group-title="Quốc Tế",NAT GEO PEOPLE HD
+rtp://@232.84.1.76:8430
+
+#EXTINF:-1, tvg-id="ngwhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/natgeowild.jpg" tvg-name="NAT GEO WILD HD"  group-title="Quốc Tế",NAT GEO WILD HD
+rtp://@232.84.2.123:8454
+
+#EXTINF:-1, tvg-id="ngchd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/national-geographic.jpg" tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="Quốc Tế",NATIONAL GEOGRAPHIC HD
+rtp://@232.84.1.1:7980
+
+#EXTINF:-1, tvg-id="outdoorhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/ourdoor.jpg" tvg-name="Outdoor Channel HD"  group-title="Quốc Tế",Outdoor Channel HD
+rtp://@232.84.1.107:10218
+
+#EXTINF:-1, tvg-id="cinemaworldhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/179.jpg" tvg-name="CinemaWorld HD"  group-title="Quốc Tế",CinemaWorld HD
+rtp://@232.84.3.103:10840
+
+#EXTINF:-1, tvg-id="channelvhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/270.jpg" tvg-name="Music Box HD"  group-title="Quốc Tế",Music Box HD
+rtp://@232.84.1.13:8052
+
+#EXTINF:-1, tvg-id="warnertvhd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/178.jpg" tvg-name="Warner TV HD"  group-title="Quốc Tế",Warner TV HD
+rtp://@232.84.3.114:10516
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/17.jpg" tvg-name="ATV _ TH An Giang"  group-title="Địa Phương",ATV _ TH An Giang
+rtp://@232.84.2.110:8742
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/20.jpg" tvg-name="BGTV _ TH Bắc Giang"  group-title="Địa Phương",BGTV _ TH Bắc Giang
+rtp://@232.84.2.89:8754
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/19.jpg" tvg-name="BLTV _ TH Bạc Liêu"  group-title="Địa Phương",BLTV _ TH Bạc Liêu
+rtp://@232.84.2.116:8766
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/26.jpg" tvg-name="BPTV1 _ TH Bình Phước"  group-title="Địa Phương",BPTV1 _ TH Bình Phước
+rtp://@232.84.2.90:8814
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/18.jpg" tvg-name="BRT _ TH Bà Rịa Vũng Tàu"  group-title="Địa Phương",BRT _ TH Bà Rịa Vũng Tàu
+rtp://@232.84.2.73:8748
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/192.jpg" tvg-name="BTV _ TH Bắc Ninh HD"  group-title="Địa Phương",BTV _ TH Bắc Ninh HD
+rtp://@232.84.2.245:10506
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/25.jpg" tvg-name="BTV _ TH Bình Định"  group-title="Địa Phương",BTV _ TH Bình Định
+rtp://@232.84.2.88:8784
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/27.jpg" tvg-name="BTV _ TH Bình Thuận"  group-title="Địa Phương",BTV _ TH Bình Thuận
+rtp://@232.84.2.77:8820
+
+#EXTINF:-1, tvg-id="binhduong1" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/136.jpg" tvg-name="BTV1 HD _ TH Bình Dương HD"  group-title="Địa Phương",BTV1 HD _ TH Bình Dương HD
+rtp://@232.84.3.109:10750
+
+#EXTINF:-1, tvg-id="binhduong2" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/135.jpg" tvg-name="BTV2 _ TH Bình Dương"  group-title="Địa Phương",BTV2 _ TH Bình Dương
+rtp://@232.84.1.137:8796
+
+#EXTINF:-1, tvg-id="btv9" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/9lPsA56.jpg" tvg-name="BTV9 An Viên HD"  group-title="Địa Phương",BTV9 An Viên HD 
+rtp://@232.84.3.199:11116
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/caobang.jpg" tvg-name="CRTV HD _ TH Cao Bằng"  group-title="Địa Phương",CRTV HD _ TH Cao Bằng
+rtp://@232.84.3.202:11134
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/camau.jpg" tvg-name="CTV _ TH Cà Mau"  group-title="Địa Phương",CTV _ TH Cà Mau
+rtp://@232.84.2.117:8826
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/danang1.jpg" tvg-name="DaNangTV1 _ TH Thành phố Đà Nẵng"  group-title="Địa Phương",DaNangTV1 _ TH Thành phố Đà Nẵng
+rtp://@232.84.1.146:8850
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/danang2.jpg" tvg-name="DaNangTV2 _ TH Thành phố Đà Nẵng"  group-title="Địa Phương",DaNangTV2 _ TH Thành phố Đà Nẵng
+rtp://@232.84.3.122:8856
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/195.jpg" tvg-name="ĐNRTV1 HD _ TH Đồng Nai HD"  group-title="Địa Phương",ĐNRTV1 HD _ TH Đồng Nai HD
+rtp://@232.84.3.112:10762
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/196.jpg" tvg-name="ĐNRTV2 _ TH Đồng Nai"  group-title="Địa Phương",ĐNRTV2 _ TH Đồng Nai
+rtp://@232.84.1.153:8892
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/40.jpg" tvg-name="DRT _ TH Đắk Lắk"  group-title="Địa Phương",DRT _ TH Đắk Lắk
+rtp://@232.84.1.149:8868
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/dienbien.jpg" tvg-name="ĐTV _ TH Điện Biên"  group-title="Địa Phương",ĐTV _ TH Điện Biên
+rtp://@232.84.3.116:8880
+
+#EXTINF:-1, tvg-id="hanoi1" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/12.jpg" tvg-name="H1 HD _ TH Hà Nội HD"  group-title="Địa Phương",H1 HD _ TH Hà Nội HD
+rtp://@232.84.3.143:10738
+
+#EXTINF:-1, tvg-id="hanoi2" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/148.jpg" tvg-name="H2 HD_ TH Hà Nội HD"  group-title="Địa Phương",H2 HD_ TH Hà Nội HD
+rtp://@232.84.3.137:10744
+
+#EXTINF:-1, tvg-id="hatinh" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/35.jpg" tvg-name="HTTV HD _ TH Hà Tĩnh"  group-title="Địa Phương",HTTV HD _ TH Hà Tĩnh
+rtp://@232.84.3.134:10768
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/200.jpg" tvg-name="HBTV HD _ TH Hòa Bình"  group-title="Địa Phương",HBTV HD _ TH Hòa Bình
+rtp://@232.84.3.213:11200
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/198.jpg" tvg-name="HGTV _ TH Hà Giang"  group-title="Địa Phương",HGTV _ TH Hà Giang
+rtp://@232.84.2.85:8910
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/38.jpg" tvg-name="HGTV _ TH Hậu Giang"  group-title="Địa Phương",HGTV _ TH Hậu Giang
+rtp://@232.84.2.112:8940
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/GayYFME.jpg" tvg-name="HiTV _ Hanoicab 1"  group-title="Địa Phương",HiTV _ Hanoicab 1
+#rtp://@232.84.1.55:8310
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/35.jpg" tvg-name="HTTV HD _ TH Hà Tĩnh HD"  group-title="Địa Phương",HTTV HD _ TH Hà Tĩnh HD
+rtp://@232.84.3.134:10768
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/36.jpg" tvg-name="HY HD _ TH Hưng Yên HD"  group-title="Địa Phương",HY HD _ TH Hưng Yên HD
+rtp://@232.84.3.110:10786
+
+#EXTINF:-1, tvg-id="binhduong4" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/188.jpg" tvg-name="iMOVIE TV _ BTV4 HD"  group-title="Địa Phương",iMOVIE TV _ BTV4 HD
+rtp://@232.84.2.156:10756
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/45.jpg" tvg-name="KG _ TH Kiên Giang HD"  group-title="Địa Phương",KG _ TH Kiên Giang HD
+rtp://@232.84.3.161:10918
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/46.jpg" tvg-name="KRT _ TH Kon Tum"  group-title="Địa Phương",KRT _ TH Kon Tum
+rtp://@232.84.3.115:8970
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/44.jpg" tvg-name="KTV _ TH Khánh Hòa"  group-title="Địa Phương",KTV _ TH Khánh Hòa
+rtp://@232.84.2.99:8958
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/48.jpg" tvg-name="LA34 _ TH Long An"  group-title="Địa Phương",LA34 _ TH Long An
+rtp://@232.84.1.171:9000
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/51.jpg" tvg-name="LSTV HD _ TH Lạng Sơn"  group-title="Địa Phương",LSTV HD _ TH Lạng Sơn
+rtp://@232.84.3.203:11140
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/laichau.jpg" tvg-name="LTV _ TH Lai Châu"  group-title="Địa Phương",LTV _ TH Lai Châu
+rtp://@232.84.3.133:9174
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/50.jpg" tvg-name="LTV _ TH Lâm Đồng"  group-title="Địa Phương",LTV _ TH Lâm Đồng
+rtp://@232.84.2.78:8976
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/namdinh.jpg" tvg-name="NTV _ TH Nam Định"  group-title="Địa Phương",NTV _ TH Nam Định
+rtp://@232.84.3.119:9006
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/54.jpg" tvg-name="NTV _ TH Ninh Bình"  group-title="Địa Phương",NTV _ TH Ninh Bình
+rtp://@232.84.2.80:9018
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/55.jpg" tvg-name="NTV _ TH Ninh Thuận"  group-title="Địa Phương",NTV _ TH Ninh Thuận
+rtp://@232.84.2.74:9024
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/53.jpg" tvg-name="NTV HD _ TH Nghệ An HD"  group-title="Địa Phương",NTV HD _ TH Nghệ An HD
+rtp://@232.84.2.198:10972
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/41.jpg" tvg-name="PTD _ TH Đắk Nông"  group-title="Địa Phương",PTD _ TH Đắk Nông
+rtp://@232.84.3.140:8874
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/147.jpg" tvg-name="PTP _ TH Phú Yên"  group-title="Địa Phương",PTP _ TH Phú Yên
+rtp://@232.84.3.108:10362
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/59.jpg" tvg-name="PTQ _ TH Quảng Ngãi HD"  group-title="Địa Phương",PTQ _ TH Quảng Ngãi HD
+rtp://@232.84.3.126:10798
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/56.jpg" tvg-name="PTV HD _ TH Phú Thọ HD"  group-title="Địa Phương",PTV HD _ TH Phú Thọ HD
+rtp://@232.84.3.148:10792
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/57.jpg" tvg-name="QBTV _ TH Quảng Bình"  group-title="Địa Phương",QBTV _ TH Quảng Bình
+rtp://@232.84.2.98:9042
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/58.jpg" tvg-name="QRT _ TH Quảng Nam"  group-title="Địa Phương",QRT _ TH Quảng Nam
+rtp://@232.84.2.81:9048
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/61.jpg" tvg-name="QRTV _ TH Quảng Trị"  group-title="Địa Phương",QRTV _ TH Quảng Trị
+rtp://@232.84.2.105:9066
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/60.jpg" tvg-name="QTV1 HD _ TH Quảng Ninh HD"  group-title="Địa Phương",QTV1 HD _ TH Quảng Ninh HD
+rtp://@232.84.1.248:10978
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/22.jpg" tvg-name="QTV3 HD _ TH Quảng Ninh HD"  group-title="Địa Phương",QTV3 HD _ TH Quảng Ninh HD
+rtp://@232.84.1.249:10984
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/63.jpg" tvg-name="STV _ TH Sơn La"  group-title="Địa Phương",STV _ TH Sơn La
+rtp://@232.84.1.184:9078
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/62.jpg" tvg-name="STV1 _ TH Sóc Trăng"  group-title="Địa Phương",STV1 _ TH Sóc Trăng
+rtp://@232.84.2.103:9072
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/191.jpg" tvg-name="TBK _ TH Bắc Kạn"  group-title="Địa Phương",TBK _ TH Bắc Kạn
+rtp://@232.84.2.92:8760
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/65.jpg" tvg-name="TBTV _ TH Thái Bình"  group-title="Địa Phương",TBTV _ TH Thái Bình
+rtp://@232.84.2.100:9090
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/193.jpg" tvg-name="THBT _ TH Bến Tre"  group-title="Địa Phương",THBT _ TH Bến Tre
+rtp://@232.84.2.115:8778
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/37.jpg" tvg-name="THD _ TH Hải Dương"  group-title="Địa Phương",THD _ TH Hải Dương
+rtp://@232.84.3.113:8928
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/43.jpg" tvg-name="THĐT1 _ TH Đồng Tháp"  group-title="Địa Phương",THĐT1 _ TH Đồng Tháp
+rtp://@232.84.1.154:8898
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/197.jpg" tvg-name="THGL _ TH Gia Lai"  group-title="Địa Phương",THGL _ TH Gia Lai
+rtp://@232.84.3.138:8904
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/34.jpg" tvg-name="THHN _ TH Hà Nam"  group-title="Địa Phương",THHN _ TH Hà Nam
+rtp://@232.84.2.82:8916
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/49.jpg" tvg-name="THLC _ TH Lào Cai"  group-title="Địa Phương",THLC _ TH Lào Cai
+rtp://@232.84.2.93:8718
+
+#EXTINF:-1, tvg-id="haiphong" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/199.jpg" tvg-name="THP HD _  Hải Phòng HD"  group-title="Địa Phương",THP HD _  Hải Phòng HD
+rtp://@232.84.3.142:10780
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/68.jpg" tvg-name="THTG HD _ TH Tiền Giang"  group-title="Địa Phương",THTG HD _ TH Tiền Giang
+rtp://@232.84.3.204:11146
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/30.jpg" tvg-name="THTPCT _ Cần Thơ"  group-title="Địa Phương",THTPCT _ Cần Thơ
+rtp://@232.84.2.118:8838
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/69.jpg" tvg-name="THTV _ TH Trà Vinh"  group-title="Địa Phương",THTV _ TH Trà Vinh
+rtp://@232.84.2.102:9114
+
+#EXTINF:-1, tvg-id="vinhlong1hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/79.jpg" tvg-name="THVL1 HD _ TH Vĩnh Long HD"  group-title="Địa Phương",THVL1 HD _ TH Vĩnh Long HD
+rtp://@232.84.3.152:10882
+
+#EXTINF:-1, tvg-id="vinhlong2hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/72.jpg" tvg-name="THVL2 HD _ TH Vĩnh Long HD"  group-title="Địa Phương",THVL2 HD _ TH Vĩnh Long HD
+rtp://@232.84.3.164:10888
+
+#EXTINF:-1, tvg-id="vinhlong3hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/242.jpg" tvg-name="THVL3 HD _ TH Vĩnh Long HD"  group-title="Địa Phương",THVL3 HD _ TH Vĩnh Long HD
+rtp://@232.84.3.165:10900
+
+#EXTINF:-1, tvg-id="vinhlong4hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/249.jpg" tvg-name="THVL4 HD _ TH Vĩnh Long HD"  group-title="Địa Phương",THVL4 HD _ TH Vĩnh Long HD
+rtp://@232.84.3.160:10912
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/66.jpg" tvg-name="TN1 HD _ TH Thái Nguyên HD"  group-title="Địa Phương",TN1 HD _ TH Thái Nguyên HD
+rtp://@232.84.3.146:10774
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/66.jpg" tvg-name="TN2 _ TH Thái Nguyên"  group-title="Địa Phương",TN2 _ TH Thái Nguyên
+rtp://@232.84.3.123:9168
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/67.jpg" tvg-name="TRT _ TH Thừa Thiên Huế"  group-title="Địa Phương",TRT _ TH Thừa Thiên Huế
+rtp://@232.84.2.106:9120
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/64.jpg" tvg-name="TTV HD _ TH Thanh Hóa"  group-title="Địa Phương",TTV HD _ TH Thanh Hóa
+rtp://@232.84.3.198:11110
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/70.jpg" tvg-name="TTV _ TH Tuyên Quang"  group-title="Địa Phương",TTV _ TH Tuyên Quang
+rtp://@232.84.2.91:9138
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/71.jpg" tvg-name="TTV11 _ TH Tây Ninh"  group-title="Địa Phương",TTV11 _ TH Tây Ninh
+rtp://@232.84.2.97:9084
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/vinhphuc.jpg" tvg-name="VP _ TH Vĩnh Phúc"  group-title="Địa Phương",VP _ TH Vĩnh Phúc
+rtp://@232.84.2.83:9156
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/logo/74.jpg" tvg-name="YTV _ TH Yên Bái"  group-title="Địa Phương",YTV _ TH Yên Bái
+rtp://@232.84.2.75:9162
+
