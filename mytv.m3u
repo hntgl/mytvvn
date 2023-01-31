@@ -33,6 +33,9 @@ rtp://@232.84.1.143:8832
 #EXTINF:-1, tvg-id="vtvcab2hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/3qoblto.jpg" tvg-name="VTVcab 2 _ Phim Việt"  group-title="VTVcab",VTVcab 2 _ Phim Việt
 rtp://@232.84.1.168:8982
 
+#EXTINF:-1 tvg-name="VTVcab 3 The Thao TV HD" tvg-logo="http://ia801903.us.archive.org/8/items/LOGOTV_201701/VTVCab3_The_thao_TV.png" group-title="VTVcab ",VTVcab 3 - Thế Thao TV HD
+rtp://@232.84.1.207:9216
+
 #EXTINF:-1, tvg-id="vtvcab4hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/RBWPKCh.jpg" tvg-name="VTVcab 4"  group-title="VTVcab",VTVcab 4
 rtp://@232.84.2.190:10924
 
@@ -59,6 +62,9 @@ rtp://@232.84.1.244:9438
 
 #EXTINF:-1, tvg-id="vtvcab15hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/Ac2qLI8.jpg" tvg-name="VTVcab 15"  group-title="VTVcab",VTVcab 15
 rtp://@232.84.2.192:10936
+
+#EXTINF:-1 tvg-name="Bong da TV HD" tvg-logo="http://ia801903.us.archive.org/8/items/LOGOTV_201701/VTVCab16_Bong_da_TV.png" group-title="VTVcab", bong da TV HD
+rtp://@232.84.1.210:9234
 
 #EXTINF:-1, tvg-id="vtvcab17hd" tvg-logo="https://raw.githubusercontent.com/hntgl/mytvvn/main/img/BEwGua0.jpg" tvg-name="VTVcab 17 _ Yeah1!TV"  group-title="VTVcab",VTVcab 17 _ Yeah1!TV
 rtp://@232.84.1.217:9276
